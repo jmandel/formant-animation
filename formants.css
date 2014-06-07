@@ -1,0 +1,15 @@
+svg {
+  position: absolute;
+}
+
+circle {
+ fill: green;
+ stroke: darkgreen;
+ stroke-width: .04px;
+ fill-opacity: 10%;
+ stroke-opacity: 40%;
+}
+
+circle.outlier {
+ stroke: purple;
+}
