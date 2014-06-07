@@ -1,3 +1,2 @@
-formant-animation
-=================
-# <jmandel.github.io/formant-animation>
+# Formant timecourse animation
+### <https://jmandel.github.io/formant-animation>
